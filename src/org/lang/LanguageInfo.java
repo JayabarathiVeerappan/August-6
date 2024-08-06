@@ -11,4 +11,7 @@ public class LanguageInfo {
 	public void hindiLanguage() {
 		System.out.println("Hindi language is part 3");
 	}
+	public static void main(String[] args) {
+		LanguageInfo l = new LanguageInfo();
+	}
 }
